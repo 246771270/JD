@@ -14,6 +14,9 @@
 #### [备用购买地址](https://cloud.tencent.com/act/pro/starlake?fromSource=gwzcw.3788702.3788702.3788702&utm_medium=cpc&utm_id=gwzcw.3788702.3788702.3788702&cps_key=13c854d3ec192824956cc079f600753f)
 
 
+## 扫描教程
+#### 请看上面【青龙扫描.md】文件
+
 ## 搭建教程 方式一
 #### [https://blog.csdn.net/tangcv/article/details/118691149](https://blog.csdn.net/tangcv/article/details/118691149)
 
@@ -102,15 +105,6 @@ export tytpacketId=""
 export actId=""
 export packetId="" 
 ```
-
-## 邀请有礼
-#### zdtx 设置为true自动抢提现100
-```
-export yqm="UtYmOqFJrh4Sl45d4mqg6Q%3D%3D"
-export zdtx=false
-```
-
-
 
 ## 店铺签到
 #### 店铺签到 各类店铺签到，有新的店铺直接添加token即可
